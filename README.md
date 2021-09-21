@@ -4,7 +4,7 @@
 
 ### Prerequisites
 
-* [JDK 13](https://www.oracle.com/java/technologies/javase-jdk13-downloads.html)
+* [JDK 16](https://www.oracle.com/java/technologies/downloads/#java16)
 * [Eclipse IDE (or any IDE)](https://www.eclipse.org/downloads/)
 * [SQL Workbench](https://www.mysql.com/products/workbench/)(Windows) / [DBeaver](https://dbeaver.io/download/)(Linux)
 
